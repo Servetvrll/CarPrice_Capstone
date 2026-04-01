@@ -1,3 +1,10 @@
+
+
+
+<img width="1315" height="853" alt="Ekran görüntüsü 2026-04-01 143913" src="https://github.com/user-attachments/assets/79617421-81db-4094-8d13-6f11d0d279a6" />
+
+
+
 # 🏎️ Precision Auto AI: 100-Day Data Science Bootcamp Capstone Project
 
 This project is the final **Capstone Project** developed as part of the **"Data Science & Machine Learning 2026: 100-Day Bootcamp"** led by **Atıl Samancıoğlu**. It represents a complete end-to-end machine learning pipeline, starting from raw data analysis to a fully functional, professionally designed web deployment.
