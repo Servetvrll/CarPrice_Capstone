@@ -1,0 +1,12 @@
+# Data Science & ML
+scikit-learn==1.7.0
+pandas==2.3.0
+numpy==2.1.0
+xgboost==2.1.0
+category-encoders==2.7.0
+
+# API & Web Server
+fastapi==0.115.12
+uvicorn==0.34.3
+Jinja2==3.1.6
+python-multipart==0.0.20
